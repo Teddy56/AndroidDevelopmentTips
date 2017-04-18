@@ -1,0 +1,2 @@
+# AndroidDevelopmentTips
+AndroidStudioによる開発に用いたソースを管理
